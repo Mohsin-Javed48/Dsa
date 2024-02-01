@@ -1,0 +1,14 @@
+﻿  FileName.cpp
+M:\4TH SEMESTER\DSA\lab 6 stack queue\Lab 6 task 1 stack\Lab 6\FileName.cpp(115,10): warning C4305: 'argument': truncation from 'double' to 'const T'
+          with
+          [
+              T=float
+          ]
+M:\4TH SEMESTER\DSA\lab 6 stack queue\Lab 6 task 1 stack\Lab 6\FileName.cpp(116,10): warning C4305: 'argument': truncation from 'double' to 'const T'
+          with
+          [
+              T=float
+          ]
+M:\4TH SEMESTER\DSA\lab 6 stack queue\Lab 6 task 1 stack\Lab 6\FileName.cpp(61): warning C4715: 'Stack<float>::getTop': not all control paths return a value
+M:\4TH SEMESTER\DSA\lab 6 stack queue\Lab 6 task 1 stack\Lab 6\FileName.cpp(83): warning C4715: 'Stack<float>::isFull': not all control paths return a value
+  Lab 6.vcxproj -> M:\4TH SEMESTER\DSA\lab 6 stack queue\Lab 6 task 1 stack\x64\Debug\Lab 6.exe
